@@ -1,0 +1,29 @@
+html,body {
+    font-size: 20px;
+    height: 100%;
+}
+.uiblock {
+    font-size: 20px;
+    overflow: auto;
+    word-break: break-word;
+    text-overflow: ellipsis;
+    line-height: 75%;
+    text-align: center;
+    margin: 15px;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 180px;
+    float: left;
+}
+
+.delete-checkbox {
+    position: relative;
+    height: 20px;
+    right: 85px;
+}
+
+.button{
+    font-size:16px;
+    padding: 10px 20px;
+}
